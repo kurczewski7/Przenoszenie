@@ -17,6 +17,10 @@
 		2C351580278B389A002B703F /* PrzenoszenieTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C35157F278B389A002B703F /* PrzenoszenieTests.swift */; };
 		2C35158A278B389B002B703F /* PrzenoszenieUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C351589278B389B002B703F /* PrzenoszenieUITests.swift */; };
 		2C35158C278B389B002B703F /* PrzenoszenieUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C35158B278B389B002B703F /* PrzenoszenieUITestsLaunchTests.swift */; };
+		2C351599278B6466002B703F /* baza.zip in Resources */ = {isa = PBXBuildFile; fileRef = 2C351598278B6466002B703F /* baza.zip */; };
+		AAA7991DBB8582F49EA95670 /* Pods_PrzenoszenieTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4A18515F3098409D6090CAC1 /* Pods_PrzenoszenieTests.framework */; };
+		B73C8ABAF3A836E52E5606F8 /* Pods_Przenoszenie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BD9003BE1F099C9454BFFA8 /* Pods_Przenoszenie.framework */; };
+		C37A6A495C39CACD51CBA2AF /* Pods_Przenoszenie_PrzenoszenieUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33912E664D787D37280C46BE /* Pods_Przenoszenie_PrzenoszenieUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1D231D52C215631D3F1D0639 /* Pods-Przenoszenie.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Przenoszenie.release.xcconfig"; path = "Target Support Files/Pods-Przenoszenie/Pods-Przenoszenie.release.xcconfig"; sourceTree = "<group>"; };
+		2BD9003BE1F099C9454BFFA8 /* Pods_Przenoszenie.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Przenoszenie.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C351562278B3899002B703F /* Przenoszenie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Przenoszenie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C351565278B3899002B703F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C351567278B3899002B703F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -51,6 +57,14 @@
 		2C351585278B389B002B703F /* PrzenoszenieUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PrzenoszenieUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C351589278B389B002B703F /* PrzenoszenieUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrzenoszenieUITests.swift; sourceTree = "<group>"; };
 		2C35158B278B389B002B703F /* PrzenoszenieUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrzenoszenieUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2C351598278B6466002B703F /* baza.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = baza.zip; sourceTree = "<group>"; };
+		2E4DA56D0F58A835C0D74E90 /* Pods-Przenoszenie.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Przenoszenie.debug.xcconfig"; path = "Target Support Files/Pods-Przenoszenie/Pods-Przenoszenie.debug.xcconfig"; sourceTree = "<group>"; };
+		33912E664D787D37280C46BE /* Pods_Przenoszenie_PrzenoszenieUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Przenoszenie_PrzenoszenieUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4A18515F3098409D6090CAC1 /* Pods_PrzenoszenieTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PrzenoszenieTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CA9AD9E768C03BAD259AB3F /* Pods-Przenoszenie-PrzenoszenieUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Przenoszenie-PrzenoszenieUITests.debug.xcconfig"; path = "Target Support Files/Pods-Przenoszenie-PrzenoszenieUITests/Pods-Przenoszenie-PrzenoszenieUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		8D88D0BFE631478AC7DE3234 /* Pods-PrzenoszenieTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PrzenoszenieTests.release.xcconfig"; path = "Target Support Files/Pods-PrzenoszenieTests/Pods-PrzenoszenieTests.release.xcconfig"; sourceTree = "<group>"; };
+		97A834471539314110E656D3 /* Pods-Przenoszenie-PrzenoszenieUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Przenoszenie-PrzenoszenieUITests.release.xcconfig"; path = "Target Support Files/Pods-Przenoszenie-PrzenoszenieUITests/Pods-Przenoszenie-PrzenoszenieUITests.release.xcconfig"; sourceTree = "<group>"; };
+		DDEC6D67E6C8CAAEBDCA2AD3 /* Pods-PrzenoszenieTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PrzenoszenieTests.debug.xcconfig"; path = "Target Support Files/Pods-PrzenoszenieTests/Pods-PrzenoszenieTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +72,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B73C8ABAF3A836E52E5606F8 /* Pods_Przenoszenie.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAA7991DBB8582F49EA95670 /* Pods_PrzenoszenieTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -72,6 +88,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C37A6A495C39CACD51CBA2AF /* Pods_Przenoszenie_PrzenoszenieUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -85,6 +102,8 @@
 				2C35157E278B389A002B703F /* PrzenoszenieTests */,
 				2C351588278B389B002B703F /* PrzenoszenieUITests */,
 				2C351563278B3899002B703F /* Products */,
+				F6160335F761F0CF7AD21AC2 /* Pods */,
+				3CD9CF94833672542270A931 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -106,6 +125,7 @@
 				2C351569278B3899002B703F /* ViewController.swift */,
 				2C35156B278B3899002B703F /* Main.storyboard */,
 				2C351571278B389A002B703F /* Assets.xcassets */,
+				2C351598278B6466002B703F /* baza.zip */,
 				2C351573278B389A002B703F /* LaunchScreen.storyboard */,
 				2C351576278B389A002B703F /* Info.plist */,
 				2C35156E278B3899002B703F /* Przenoszenie.xcdatamodeld */,
@@ -130,6 +150,29 @@
 			path = PrzenoszenieUITests;
 			sourceTree = "<group>";
 		};
+		3CD9CF94833672542270A931 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2BD9003BE1F099C9454BFFA8 /* Pods_Przenoszenie.framework */,
+				33912E664D787D37280C46BE /* Pods_Przenoszenie_PrzenoszenieUITests.framework */,
+				4A18515F3098409D6090CAC1 /* Pods_PrzenoszenieTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F6160335F761F0CF7AD21AC2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2E4DA56D0F58A835C0D74E90 /* Pods-Przenoszenie.debug.xcconfig */,
+				1D231D52C215631D3F1D0639 /* Pods-Przenoszenie.release.xcconfig */,
+				4CA9AD9E768C03BAD259AB3F /* Pods-Przenoszenie-PrzenoszenieUITests.debug.xcconfig */,
+				97A834471539314110E656D3 /* Pods-Przenoszenie-PrzenoszenieUITests.release.xcconfig */,
+				DDEC6D67E6C8CAAEBDCA2AD3 /* Pods-PrzenoszenieTests.debug.xcconfig */,
+				8D88D0BFE631478AC7DE3234 /* Pods-PrzenoszenieTests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -137,9 +180,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2C35158F278B389B002B703F /* Build configuration list for PBXNativeTarget "Przenoszenie" */;
 			buildPhases = (
+				1D3015B762921C54D01278F8 /* [CP] Check Pods Manifest.lock */,
 				2C35155E278B3899002B703F /* Sources */,
 				2C35155F278B3899002B703F /* Frameworks */,
 				2C351560278B3899002B703F /* Resources */,
+				A402EAEBE04745FD8AAEB3F0 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -154,6 +199,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2C351592278B389B002B703F /* Build configuration list for PBXNativeTarget "PrzenoszenieTests" */;
 			buildPhases = (
+				30ED594A7EB842978FAD1810 /* [CP] Check Pods Manifest.lock */,
 				2C351577278B389A002B703F /* Sources */,
 				2C351578278B389A002B703F /* Frameworks */,
 				2C351579278B389A002B703F /* Resources */,
@@ -172,9 +218,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2C351595278B389B002B703F /* Build configuration list for PBXNativeTarget "PrzenoszenieUITests" */;
 			buildPhases = (
+				2FD4355D42CC7F30FC31BA33 /* [CP] Check Pods Manifest.lock */,
 				2C351581278B389B002B703F /* Sources */,
 				2C351582278B389B002B703F /* Frameworks */,
 				2C351583278B389B002B703F /* Resources */,
+				7487E37690D148D03180B1A1 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -237,6 +285,7 @@
 				2C351575278B389A002B703F /* LaunchScreen.storyboard in Resources */,
 				2C351572278B389A002B703F /* Assets.xcassets in Resources */,
 				2C35156D278B3899002B703F /* Main.storyboard in Resources */,
+				2C351599278B6466002B703F /* baza.zip in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,6 +304,109 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1D3015B762921C54D01278F8 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Przenoszenie-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2FD4355D42CC7F30FC31BA33 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Przenoszenie-PrzenoszenieUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		30ED594A7EB842978FAD1810 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-PrzenoszenieTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7487E37690D148D03180B1A1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Przenoszenie-PrzenoszenieUITests/Pods-Przenoszenie-PrzenoszenieUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Przenoszenie-PrzenoszenieUITests/Pods-Przenoszenie-PrzenoszenieUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Przenoszenie-PrzenoszenieUITests/Pods-Przenoszenie-PrzenoszenieUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A402EAEBE04745FD8AAEB3F0 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Przenoszenie/Pods-Przenoszenie-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Przenoszenie/Pods-Przenoszenie-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Przenoszenie/Pods-Przenoszenie-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		2C35155E278B3899002B703F /* Sources */ = {
@@ -371,7 +523,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -426,7 +578,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.4;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -438,6 +590,7 @@
 		};
 		2C351590278B389B002B703F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2E4DA56D0F58A835C0D74E90 /* Pods-Przenoszenie.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -466,6 +619,7 @@
 		};
 		2C351591278B389B002B703F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1D231D52C215631D3F1D0639 /* Pods-Przenoszenie.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -494,6 +648,7 @@
 		};
 		2C351593278B389B002B703F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = DDEC6D67E6C8CAAEBDCA2AD3 /* Pods-PrzenoszenieTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -514,6 +669,7 @@
 		};
 		2C351594278B389B002B703F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8D88D0BFE631478AC7DE3234 /* Pods-PrzenoszenieTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -534,6 +690,7 @@
 		};
 		2C351596278B389B002B703F /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4CA9AD9E768C03BAD259AB3F /* Pods-Przenoszenie-PrzenoszenieUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -552,6 +709,7 @@
 		};
 		2C351597278B389B002B703F /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 97A834471539314110E656D3 /* Pods-Przenoszenie-PrzenoszenieUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;

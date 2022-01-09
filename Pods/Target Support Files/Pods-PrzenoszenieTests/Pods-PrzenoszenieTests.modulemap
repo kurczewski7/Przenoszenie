@@ -1,0 +1,6 @@
+framework module Pods_PrzenoszenieTests {
+  umbrella header "Pods-PrzenoszenieTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

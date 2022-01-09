@@ -1,0 +1,6 @@
+framework module Pods_Przenoszenie_PrzenoszenieUITests {
+  umbrella header "Pods-Przenoszenie-PrzenoszenieUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
